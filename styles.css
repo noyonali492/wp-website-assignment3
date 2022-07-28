@@ -30,12 +30,6 @@
     object-position: left;
 }
 
-#company .c-logo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 #about img {
     object-fit: cover;
 }
